@@ -1,0 +1,10 @@
+{
+  "id": "org.sledujteto.addon",
+  "version": "1.0.0",
+  "name": "Sledujteto.cz",
+  "description": "Prehrávač filmov a seriálov zo sledujteto.cz",
+  "resources": ["stream"],
+  "types": ["movie", "series"],
+  "catalogs": [],
+  "idPrefixes": ["tt"]
+}
